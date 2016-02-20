@@ -1,0 +1,2 @@
+Enter index.php in post attribute, download the result and read the source
+flag{ki6mpDIMzORxwGaPHIUt}

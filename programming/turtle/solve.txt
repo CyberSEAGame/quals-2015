@@ -1,0 +1,2 @@
+add "draw_line()" at the last line and exexute the script
+It shows the national flag of a country and lookup the country.

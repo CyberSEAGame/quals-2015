@@ -1,0 +1,8 @@
+flag{hello,world!}
+
+Sample cliant program is attached "ans.py".
+
+Make a server which running a Java program attached.
+This program ask simple calculation question ten times.
+But time limit to answer is too hard to us. 
+

@@ -1,0 +1,8 @@
+This hexdump is file directory entry of exFAT.
+In addition, exFAT holds CreateTimezoneOffset.
+
+See also:
+File Directory Entry
+http://ntfs.com/exfat-file-directory-entry.htm
+Timestamp Format
+http://ntfs.com/exfat-time-stamp.htm

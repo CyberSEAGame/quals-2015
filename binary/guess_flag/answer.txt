@@ -1,0 +1,4 @@
+flag{It's a simple XOR encryption message}
+
+Writeup:
+Search XOR data comparing strings which was entered through disassemble process and all data becomes Flag string by executing XOR of 0xFF.

@@ -1,0 +1,3 @@
+Loockup the instruction code for each CPU architecture.
+The instruction is NOP(No OPeration).
+The NOP instruction code is 0x00 for Z80 CPU.

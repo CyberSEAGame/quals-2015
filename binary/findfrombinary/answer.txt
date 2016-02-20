@@ -1,0 +1,24 @@
+Answer: flag{Without haste, but without rest.}
+Words by Goethe: Don't hurry but not rest
+
+Original source is below
+#include <stdio.h>
+int main(){
+if(1>2){
+printf("fla");
+printf("g{W");
+printf("ith");
+printf("out");
+printf(" ha");
+printf("ste");
+printf(", b");
+printf("ut ");
+printf("wit");
+printf("hou");
+printf("t r");
+printf("est");
+printf(".}\n");
+}
+}
+With this, strings wonÅft show anything and nothing will appear with execution. It is necessary to identify it as a program to show message on screen and know message content through branch operation or data analysis.
+Status API Training Shop Blog About Pricing

@@ -1,0 +1,4 @@
+Compressed flag file is hidden in extrafield of the docx.
+The hidden zip file appears if cut the extra field.
+In addition, the hidden zip file is broken.
+You must fill an end of central directory record(EOCD).

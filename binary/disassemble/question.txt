@@ -1,0 +1,10 @@
+Read the disassembled text
+Two files are contained in disassemble.tar.gz file.
+One is a binary file but it's modified (this modification causes preventing to show the flag).
+<<<<<<< HEAD
+The other is a disassembled text of the original binary using objdump -D.
+<br>
+<a href="/files/disassemble.tar.gz">disassemble.tar.gz</a>
+=======
+The other is a disassemble list of the original binary using objdump -D.
+>>>>>>> f265409f5cae3c5ec5083e496017535d69757d7e

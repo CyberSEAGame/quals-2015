@@ -1,0 +1,4 @@
+flag{H3110, w0r1d!}
+
+Writeup:
+$ strings hello | egrep flag

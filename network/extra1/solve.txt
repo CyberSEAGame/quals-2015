@@ -1,0 +1,4 @@
+1. Open this file using Wireshark.
+2. Select udp packet.
+3. Right Click and use "Follow udp stream".
+4. You can see the flag.

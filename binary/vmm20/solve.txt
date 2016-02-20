@@ -1,0 +1,8 @@
+Tips of the flag are displayed if the program runs on Windows OS with VMware, VirtualBox and Real PC.
+Tips are:
+On VirtualBox: flag{VMMdetection_
+On VMware: is_easier
+On real PC：_than_attack}
+
+To connect them makes the flag.
+

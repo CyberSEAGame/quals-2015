@@ -1,0 +1,8 @@
+Try first
+This is a sample challenge.
+
+You have to analyze and find the flag for each challenge.
+The flag format is "flag{xxxxxx}"
+Good luck!
+
+The flag is flag{CyberSEAGame}

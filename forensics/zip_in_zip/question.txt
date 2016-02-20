@@ -1,0 +1,4 @@
+MS-Word file
+Find the flag in the Microsoft Word file.
+<br>
+<a href="/files/FUJI.docx">FUJI.docx</a>

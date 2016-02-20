@@ -1,0 +1,4 @@
+Network configuration
+We are using KALI Linux. We want to set an IP address to the network interface statically.
+Which file should we change?
+The flag format is "flag{the full path name of the file}"

@@ -1,0 +1,7 @@
+Run Length Encoding(RLE)
+Decode the following encoded text:
+"f1l1a1g1{1u5s3e4t6g4v10f10o9z15q10m4l10w3y19y5e3f7c4b5n10}1"
+
+RLE samples:
+Sample 1: "f1l1a1g1"=>"flag"
+Sample 2: "t3f2z10"=>"tttffzzzzzzzzzz"

@@ -1,0 +1,8 @@
+Machine language
+What is the instruction code as same meaning?
+The instruction code is two digit hexadexcimal number in upper-case.
+
+Z80  : 00
+6800 : 01
+6809 : 12
+6502 : ??

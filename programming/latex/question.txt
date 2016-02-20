@@ -1,0 +1,24 @@
+Unknown language
+\setlength\unitlength{1mm}
+\begin{picture}(100,100)(0,0)
+\put(5,65){\line(0,1){30}}
+\put(25,65){\line(0,1){30}}
+\put(30,65){\line(0,1){30}}
+\put(60,65){\line(0,1){30}}
+\put(55,30){\line(0,1){30}}
+\put(70,30){\line(0,1){30}}
+\put(5, 95){\line(2,-3){20}}
+\put(30,65){\line(1,0){15}}
+\put(30,80){\line(1,0){15}}
+\put(30,95){\line(1,0){15}}
+\put(50,95){\line(1,0){20}}
+\put(5,60){\line(1,-6){5}}
+\put(10,30){\line(1,6){5}}
+\put(15,60){\line(1,-6){5}}
+\put(20,30){\line(1,6){5}}
+\put(55,45){\line(2,-3){10}}
+\put(70,45){\line(2,-3){10}}
+\put(70,45){\line(2,3){10}}
+\put(40,45){\oval(15,30)}
+\put(55,52.5){\oval(15,15)[r]}
+\end{picture}

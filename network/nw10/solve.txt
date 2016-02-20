@@ -1,0 +1,4 @@
+1. get telnet.pcap
+2. read by telnet.pcap by using analyze tool like Wireshark.
+3. Use function like "Follow TCP Stream" in wireshark
+4. View password of user "aseanctf"

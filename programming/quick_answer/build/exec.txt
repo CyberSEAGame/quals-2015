@@ -1,0 +1,5 @@
+Java SE 1.8
+
+java -cp calcserver.jar calcserver.CalcServer
+
+Works on port 7777

@@ -1,0 +1,1 @@
+flag{It's a simple XOR encryption message}

@@ -1,0 +1,2 @@
+Please use curl command for flag.php.
+flag{all_you_have_to_do_is_watch_everything}

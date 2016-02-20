@@ -1,0 +1,10 @@
+Fraction of Flag will appear by executing on Windows OS built on VMware, VirtualBox, and in-production machine.
+Three below are the fraction of Flag.
+
+VirtualBox: flag{VMMdetection_
+VMware: is_easier
+In-prodiction machine: _than_attack}
+
+If connected, Flag below is revealed.
+
+flag{VMMdetection_is_easier_than_attack}

@@ -1,0 +1,2 @@
+Flag when make change UA into Netscape
+flag{yVP3PTzWFGAxY2zSBfHJ}

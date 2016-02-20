@@ -1,0 +1,5 @@
+The "FindTheFlag.pcap" file is a packet capture file of a telnet session using the nc command.
+The ACKNOWLEDGE numbers in it are changed, so you can't see the stream message using "Follow TCP Stream" of the Fireshark.
+The order of packets is not changed.
+To change the numbers into the range of blanks and open it with wireshark, it will be warning for incorrect packets, so you can correct the numbers.
+Or to see the data section in packets, you can find a flag caracter each packet and built a flag message to correct them.

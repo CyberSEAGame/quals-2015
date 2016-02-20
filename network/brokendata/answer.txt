@@ -1,0 +1,5 @@
+Answer: flag{There is always a better way.}
+Data is the one without pcap file header. It has data of EthernetII. If header is put back, it can be read byWireshark, and even without header by understanding what is inside, it can be easy to guess what it is.  Or can be solved by just looking by binary editor.
+Data to extract is 
+ZmxhZ3tUaGVyZSBpcyBhbHdheXMgYSBiZXR0ZXIgd2F5Ln0=
+And this is the one flag{There is always a better way.} is converted by BASE64. Can guess if it is BASE conversion by looking at = at the end of string.

@@ -1,0 +1,4 @@
+The "packet.data" file is a pcap file without the header.
+You can see a message to add the header and open it with the wireshark, or to open it with a text/binary editor.
+The message is "ZmxhZ3tUaGVyZSBpcyBhbHdheXMgYSBiZXR0ZXIgd2F5Ln0=", so it's a base64 enocded message.
+To decode it, you can see a message "flag{There is always a better way.}"

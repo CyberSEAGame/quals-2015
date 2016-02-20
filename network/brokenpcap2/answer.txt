@@ -1,0 +1,4 @@
+Answer:
+Data between telnet client and nc. And Flag is flag{DontLetMeDown!}
+ACKNOWLEDGE number has been displaced so Follow TCP Stream doesnÅft allow to read but it will be a big help. Number order hasnÅft been changed, so changing packet numbers which looks unconnected into the one which will be filled in blank area  will enable TCP Stream to connect those. Wireshark will put up alert, so it becomes obvious which packet is not correct.
+Or  another option is read packet in order. If Data inside packet can be confirmed, flag string should be easily recognized.

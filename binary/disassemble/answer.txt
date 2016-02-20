@@ -1,0 +1,6 @@
+2 files are contained in .tar.gz file.
+
+One is the binary file but modified(and this modification causes preventing to show correct flag).
+The other is the disassemble list (correct binary file is disassembled by objdump -D.).
+
+Flag contains in flag.txt .

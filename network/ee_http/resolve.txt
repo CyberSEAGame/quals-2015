@@ -1,0 +1,2 @@
+Extract the "my_flag.png" file using the NetworkMiner.
+There is the flag message on the image.

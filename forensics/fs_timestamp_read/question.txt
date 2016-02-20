@@ -1,0 +1,15 @@
+exFAT timestamp reading
+
+The file shows one of exFAT File directory entry.
+Answer the "create time" of this file at Asia/Tokyo time zone.
+
+The flag format is "flag{YYYY_MM_DD_HH_MM_SS}"
+YYYY: year (1970-2015)
+MM: month (01-12)
+DD: day (00-31)
+HH: hour (00-23)
+MM: minute (00-59)
+SS: second (00-59)
+_: joint them with a underscore character
+
+<a href="/files/exfat_directory_entry.bin">exfat_directory_entry.bin</a>

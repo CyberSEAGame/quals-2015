@@ -1,0 +1,5 @@
+Run it on VMs
+Run the program "runme.exe" in <a href="runme.zip">runme.zip</a>,
+collect part of flag, and construct the complete flag.
+<br>
+<a href="/files/runme.zip">runme.zip</a>

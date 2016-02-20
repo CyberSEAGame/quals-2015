@@ -1,0 +1,8 @@
+FLAG : FLAG{ZIP_IN_ZIP_EXTRAFIELD}
+
+----------------
+
+How to solve:
+
+In the area which shows as "Extra Field" on Zip header, there is Zip date and 
+extract it, then will see Flag.
