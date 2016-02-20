@@ -1,7 +1,7 @@
 # CyberSEAGame 2015 quals
 
 ## Flag Format
-* flag{~~~~}  or FLAG{~~~~}
+* flag{~~~~} or FLAG{~~~~}
 
 ##Directory Structure
 * question.txt : Question text.
